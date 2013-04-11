@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">KD330A_assignment_3_basic</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">KD330A_ass_3_basic</string>
+    <string name="hello">Hello, </string>
+    <string name="yourpassword">with the password, !</string>
+</resources>
